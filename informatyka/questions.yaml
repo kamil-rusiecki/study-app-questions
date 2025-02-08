@@ -1,0 +1,36 @@
+questions:
+  - question: Co oznacza skrót HTML?
+    options:
+      - Hyper Text Markup Language
+      - High Tech Modern Language
+      - Hyper Transfer Markup Logic
+      - Home Tool Markup Language
+    correct: 0
+  - question: Który z poniższych nie jest językiem programowania?
+    options:
+      - Python
+      - Java
+      - HTML
+      - Ruby
+    correct: 2
+  - question: Co to jest algorytm?
+    options:
+      - Rodzaj komputera
+      - Sekwencja kroków prowadząca do rozwiązania problemu
+      - Program komputerowy
+      - Błąd w kodzie
+    correct: 1
+  - question: Jaka jest podstawowa jednostka informacji?
+    options:
+      - Bit
+      - Bajt
+      - Kilobajt
+      - Megabajt
+    correct: 0
+  - question: Który operator służy do porównania w JavaScript?
+    options:
+      - =
+      - ==
+      - ===
+      - +=
+    correct: 2

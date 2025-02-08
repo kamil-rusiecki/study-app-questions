@@ -1,0 +1,36 @@
+questions:
+  - question: Ile wynosi pierwiastek kwadratowy z 16?
+    options:
+      - 2
+      - 3
+      - 4
+      - 5
+    correct: 2
+  - question: Jaki jest wzór na pole koła?
+    options:
+      - πr
+      - 2πr
+      - πr²
+      - 2πr²
+    correct: 2
+  - question: Ile wynosi sinus 90 stopni?
+    options:
+      - 0
+      - 1
+      - -1
+      - 0.5
+    correct: 1
+  - question: Które z poniższych jest liczbą pierwszą?
+    options:
+      - 1
+      - 4
+      - 6
+      - 7
+    correct: 3
+  - question: Ile wynosi 3²?
+    options:
+      - 6
+      - 8
+      - 9
+      - 12
+    correct: 2
