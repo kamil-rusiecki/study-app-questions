@@ -1,0 +1,36 @@
+questions:
+  - question: Co oznacza słowo "apooople"?
+    options:
+      - Banan
+      - Jabłko
+      - Gruszka
+      - Śliwka
+    correct: 1
+  - question: Jak powiedzieć "dziękuję" po angielsku?
+    options:
+      - yyy
+      - Hello
+      - Thank you
+      - Goodbye
+    correct: 2
+  - question: Wybierz poprawną formę czasownika "be" dla "she"
+    options:
+      - am
+      - is
+      - are
+      - be
+    correct: 1
+  - question: Co oznacza "weather"?
+    options:
+      - Pogoda
+      - Czy
+      - Gdzie
+      - Woda
+    correct: 0
+  - question: Jak jest "kot" po angielsku?
+    options:
+      - Dog
+      - Cat
+      - Mouse
+      - Bird
+    correct: 1
